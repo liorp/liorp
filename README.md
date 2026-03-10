@@ -1,6 +1,6 @@
 # LFG 🚀
 
-Working on the next big thing.
+Working on the next big thing
 
 Check out my [presentations](https://drive.google.com/drive/folders/11V0tBaS5vcpnmk96mvXgPxUWTevpoTcL?usp=sharing) 
 
